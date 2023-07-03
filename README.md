@@ -1,6 +1,6 @@
 <p>👋 Hi, I’m Max.<br/>
-Sales/marketing manager by day, with a focus on web marketing;<br/>
-  coding enthusiast by night.</p>
+Sales/marketing manager by day.<br/>
+  Coding enthusiast by night.</p>
 
 <p>(Yeah that means I don't get enough sleep)<br/>
 (On the other hand I get to make stuff for myself and my company, so... it's fine I guess?)<br/>
