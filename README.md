@@ -3,7 +3,7 @@ Sales/marketing manager by day, with a focus on web marketing;<br/>
   coding enthusiast by night.</p>
 
 <p>(Yeah that means I don't get enough sleep)<br/>
-(On the other hand I get to make some tools for myself and my company, so... it's fine I guess?)<br/>
+(On the other hand I get to make stuff for myself and my company, so... it's fine I guess?)<br/>
 (No seriously, I have a problem, help me)</p>
 
 <p>👀 I’m interested in... pretty much everything.<br/>
