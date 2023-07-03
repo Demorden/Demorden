@@ -4,9 +4,9 @@ Sales/marketing manager by day.<br/>
 
 <p>(Yeah that means I don't get enough sleep)<br/>
 (On the other hand I get to make stuff for myself and my company, so... it's fine I guess?)<br/>
-(No seriously, I have a problem, help me)</p>
 
-<p>👀 I’m interested in... pretty much everything.<br/>
+<p>👀 I’m interested in... pretty much everything, from the mating habits of chinchillas to ML.<br/>
+  (Not implying I actually know anything valuable about either lol)<br/>
 🌱 I’m currently kinda decent (but trying to get better) at C# and Unity, I am learning Python and I am looking forward to study at least the basics of C++.</p>
 
 <!---
