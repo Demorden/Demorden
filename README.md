@@ -6,8 +6,8 @@ Sales/marketing manager by day.<br/>
 (On the other hand I get to make stuff for myself and my company, so... it's fine I guess?)<br/>
 
 <p>👀 I’m interested in... pretty much everything, from the mating habits of chinchillas to ML.<br/>
-  <i>(Not implying I actually know anything valuable about either lol)</i><br/>
-🌱 I’m currently kinda decent at C# (mostly Unity), learning Python and looking forward to study at least the basics of C++.</p>
+  <i>(Not implying I actually know anything valuable about either lol)</i><br/></p>
+<p>🌱 I’m currently kinda decent at C# (mostly Unity), learning Python and looking forward to study at least the basics of C++.</p>
 
 <!---
 Demorden/Demorden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
